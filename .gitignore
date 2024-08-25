@@ -1,0 +1,7 @@
+dump 
+*.com 
+compile_commands.json
+./.cache/ 
+*.s
+*.gch
+*.z80
